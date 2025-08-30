@@ -1,0 +1,34 @@
+#include <iostream>
+using namespace std;
+
+class Animal {
+    //state or properties
+    public:
+    int age;
+    string name;
+
+    //behaviour
+    void eat() {
+        cout<<"eating"<<endl;
+
+    }
+
+    void sleep() {
+        cout<<"sleeping"<<endl;
+
+    }
+};
+
+int main() {
+    //object creation
+//static
+    Animal ramesh;
+    ramesh.age=12;
+    ramesh.name="vivek";
+    cout<<"age of ramesh is:"<<ramesh.age << endl;
+    cout<<"name of ramesh is:"<<ramesh.name <<endl;
+    ramesh.eat();
+    ramesh.sleep();
+
+    return 0;
+}
