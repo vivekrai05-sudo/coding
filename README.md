@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vivekrai05-sudo/coding/tree/master/0096-unique-binary-search-trees) |
+| [0204-count-primes](https://github.com/vivekrai05-sudo/coding/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vivekrai05-sudo/coding/tree/master/0241-different-ways-to-add-parentheses) |
 ## String
 |  |
@@ -58,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/vivekrai05-sudo/coding/tree/master/0160-intersection-of-two-linked-lists) |
+## Array
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vivekrai05-sudo/coding/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vivekrai05-sudo/coding/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vivekrai05-sudo/coding/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
