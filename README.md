@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/vivekrai05-sudo/coding/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vivekrai05-sudo/coding/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/vivekrai05-sudo/coding/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vivekrai05-sudo/coding/tree/master/0160-intersection-of-two-linked-lists) |
 ## Array
 |  |
