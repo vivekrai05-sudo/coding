@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/vivekrai05-sudo/coding/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekrai05-sudo/coding/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vivekrai05-sudo/coding/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vivekrai05-sudo/coding/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/vivekrai05-sudo/coding/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/vivekrai05-sudo/coding/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vivekrai05-sudo/coding/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/vivekrai05-sudo/coding/tree/master/0046-permutations) |
+| [0131-palindrome-partitioning](https://github.com/vivekrai05-sudo/coding/tree/master/0131-palindrome-partitioning) |
 ## Union-Find
 |  |
 | ------- |
