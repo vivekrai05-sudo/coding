@@ -33,16 +33,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vivekrai05-sudo/coding/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vivekrai05-sudo/coding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/vivekrai05-sudo/coding/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vivekrai05-sudo/coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vivekrai05-sudo/coding/tree/master/0096-unique-binary-search-trees) |
+| [0938-range-sum-of-bst](https://github.com/vivekrai05-sudo/coding/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vivekrai05-sudo/coding/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vivekrai05-sudo/coding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/vivekrai05-sudo/coding/tree/master/0938-range-sum-of-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vivekrai05-sudo/coding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/vivekrai05-sudo/coding/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
