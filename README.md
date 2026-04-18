@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/vivekrai05-sudo/coding/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/vivekrai05-sudo/coding/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vivekrai05-sudo/coding/tree/master/0241-different-ways-to-add-parentheses) |
+| [3783-mirror-distance-of-an-integer](https://github.com/vivekrai05-sudo/coding/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
 | ------- |
