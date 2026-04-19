@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vivekrai05-sudo/coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/vivekrai05-sudo/coding/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/vivekrai05-sudo/coding/tree/master/1382-balance-a-binary-search-tree) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/vivekrai05-sudo/coding/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Binary Tree
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vivekrai05-sudo/coding/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vivekrai05-sudo/coding/tree/master/0160-intersection-of-two-linked-lists) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/vivekrai05-sudo/coding/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Array
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vivekrai05-sudo/coding/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/vivekrai05-sudo/coding/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/vivekrai05-sudo/coding/tree/master/0204-count-primes) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/vivekrai05-sudo/coding/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Enumeration
 |  |
 | ------- |
