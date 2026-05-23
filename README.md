@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vivekrai05-sudo/coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vivekrai05-sudo/coding/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/vivekrai05-sudo/coding/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekrai05-sudo/coding/tree/master/0151-reverse-words-in-a-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vivekrai05-sudo/coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/vivekrai05-sudo/coding/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vivekrai05-sudo/coding/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vivekrai05-sudo/coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vivekrai05-sudo/coding/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/vivekrai05-sudo/coding/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/vivekrai05-sudo/coding/tree/master/0051-n-queens) |
