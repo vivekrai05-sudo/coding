@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vivekrai05-sudo/coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vivekrai05-sudo/coding/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/vivekrai05-sudo/coding/tree/master/0200-number-of-islands) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vivekrai05-sudo/coding/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vivekrai05-sudo/coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/vivekrai05-sudo/coding/tree/master/0547-number-of-provinces) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vivekrai05-sudo/coding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vivekrai05-sudo/coding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/vivekrai05-sudo/coding/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vivekrai05-sudo/coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/vivekrai05-sudo/coding/tree/master/0547-number-of-provinces) |
 ## Hash Table
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vivekrai05-sudo/coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/vivekrai05-sudo/coding/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/vivekrai05-sudo/coding/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/vivekrai05-sudo/coding/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/vivekrai05-sudo/coding/tree/master/0204-count-primes) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vivekrai05-sudo/coding/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Enumeration
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vivekrai05-sudo/coding/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/vivekrai05-sudo/coding/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vivekrai05-sudo/coding/tree/master/0547-number-of-provinces) |
 ## Database
 |  |
@@ -156,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vivekrai05-sudo/coding/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vivekrai05-sudo/coding/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
