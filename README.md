@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vivekrai05-sudo/coding/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vivekrai05-sudo/coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/vivekrai05-sudo/coding/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/vivekrai05-sudo/coding/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vivekrai05-sudo/coding/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/vivekrai05-sudo/coding/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/vivekrai05-sudo/coding/tree/master/0204-count-primes) |
+| [0994-rotting-oranges](https://github.com/vivekrai05-sudo/coding/tree/master/0994-rotting-oranges) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vivekrai05-sudo/coding/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Enumeration
 |  |
@@ -164,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vivekrai05-sudo/coding/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/vivekrai05-sudo/coding/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
