@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vivekrai05-sudo/coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vivekrai05-sudo/coding/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/vivekrai05-sudo/coding/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/vivekrai05-sudo/coding/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekrai05-sudo/coding/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vivekrai05-sudo/coding/tree/master/0241-different-ways-to-add-parentheses) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vivekrai05-sudo/coding/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vivekrai05-sudo/coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vivekrai05-sudo/coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/vivekrai05-sudo/coding/tree/master/0200-number-of-islands) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/vivekrai05-sudo/coding/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/vivekrai05-sudo/coding/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/vivekrai05-sudo/coding/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vivekrai05-sudo/coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/vivekrai05-sudo/coding/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/vivekrai05-sudo/coding/tree/master/0128-longest-consecutive-sequence) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vivekrai05-sudo/coding/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/vivekrai05-sudo/coding/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/vivekrai05-sudo/coding/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/vivekrai05-sudo/coding/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/vivekrai05-sudo/coding/tree/master/0131-palindrome-partitioning) |
 ## Union-Find
 |  |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vivekrai05-sudo/coding/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/vivekrai05-sudo/coding/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/vivekrai05-sudo/coding/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vivekrai05-sudo/coding/tree/master/0994-rotting-oranges) |
