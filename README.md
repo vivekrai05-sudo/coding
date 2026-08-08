@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vivekrai05-sudo/coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vivekrai05-sudo/coding/tree/master/0096-unique-binary-search-trees) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivekrai05-sudo/coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vivekrai05-sudo/coding/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vivekrai05-sudo/coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/vivekrai05-sudo/coding/tree/master/0938-range-sum-of-bst) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vivekrai05-sudo/coding/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vivekrai05-sudo/coding/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivekrai05-sudo/coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vivekrai05-sudo/coding/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Array
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vivekrai05-sudo/coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/vivekrai05-sudo/coding/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/vivekrai05-sudo/coding/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivekrai05-sudo/coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/vivekrai05-sudo/coding/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/vivekrai05-sudo/coding/tree/master/0204-count-primes) |
 | [0542-01-matrix](https://github.com/vivekrai05-sudo/coding/tree/master/0542-01-matrix) |
