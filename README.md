@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vivekrai05-sudo/coding/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/vivekrai05-sudo/coding/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekrai05-sudo/coding/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vivekrai05-sudo/coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivekrai05-sudo/coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vivekrai05-sudo/coding/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/vivekrai05-sudo/coding/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/vivekrai05-sudo/coding/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/vivekrai05-sudo/coding/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/vivekrai05-sudo/coding/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vivekrai05-sudo/coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/vivekrai05-sudo/coding/tree/master/0118-pascals-triangle) |
@@ -200,4 +202,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vivekrai05-sudo/coding/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/vivekrai05-sudo/coding/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vivekrai05-sudo/coding/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vivekrai05-sudo/coding/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
