@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vivekrai05-sudo/coding/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/vivekrai05-sudo/coding/tree/master/0204-count-primes) |
 | [0407-trapping-rain-water-ii](https://github.com/vivekrai05-sudo/coding/tree/master/0407-trapping-rain-water-ii) |
+| [0485-max-consecutive-ones](https://github.com/vivekrai05-sudo/coding/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/vivekrai05-sudo/coding/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vivekrai05-sudo/coding/tree/master/0994-rotting-oranges) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vivekrai05-sudo/coding/tree/master/1855-maximum-distance-between-a-pair-of-values) |
