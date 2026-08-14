@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/vivekrai05-sudo/coding/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vivekrai05-sudo/coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/vivekrai05-sudo/coding/tree/master/0938-range-sum-of-bst) |
+| [1004-max-consecutive-ones-iii](https://github.com/vivekrai05-sudo/coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/vivekrai05-sudo/coding/tree/master/1382-balance-a-binary-search-tree) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vivekrai05-sudo/coding/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Binary Tree
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/vivekrai05-sudo/coding/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/vivekrai05-sudo/coding/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/vivekrai05-sudo/coding/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/vivekrai05-sudo/coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vivekrai05-sudo/coding/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekrai05-sudo/coding/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Enumeration
@@ -224,5 +226,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/vivekrai05-sudo/coding/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekrai05-sudo/coding/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/vivekrai05-sudo/coding/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
