@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vivekrai05-sudo/coding/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/vivekrai05-sudo/coding/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/vivekrai05-sudo/coding/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/vivekrai05-sudo/coding/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/vivekrai05-sudo/coding/tree/master/0131-palindrome-partitioning) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vivekrai05-sudo/coding/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/vivekrai05-sudo/coding/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/vivekrai05-sudo/coding/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/vivekrai05-sudo/coding/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vivekrai05-sudo/coding/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/vivekrai05-sudo/coding/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vivekrai05-sudo/coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vivekrai05-sudo/coding/tree/master/0053-maximum-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/vivekrai05-sudo/coding/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
