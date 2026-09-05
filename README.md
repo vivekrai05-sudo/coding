@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/vivekrai05-sudo/coding/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vivekrai05-sudo/coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0713-subarray-product-less-than-k](https://github.com/vivekrai05-sudo/coding/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/vivekrai05-sudo/coding/tree/master/0875-koko-eating-bananas) |
 | [0938-range-sum-of-bst](https://github.com/vivekrai05-sudo/coding/tree/master/0938-range-sum-of-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/vivekrai05-sudo/coding/tree/master/1004-max-consecutive-ones-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/vivekrai05-sudo/coding/tree/master/1382-balance-a-binary-search-tree) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/vivekrai05-sudo/coding/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekrai05-sudo/coding/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/vivekrai05-sudo/coding/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/vivekrai05-sudo/coding/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/vivekrai05-sudo/coding/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivekrai05-sudo/coding/tree/master/0918-maximum-sum-circular-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vivekrai05-sudo/coding/tree/master/0992-subarrays-with-k-different-integers) |
