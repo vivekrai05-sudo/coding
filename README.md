@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/vivekrai05-sudo/coding/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vivekrai05-sudo/coding/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vivekrai05-sudo/coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vivekrai05-sudo/coding/tree/master/0096-unique-binary-search-trees) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vivekrai05-sudo/coding/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/vivekrai05-sudo/coding/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/vivekrai05-sudo/coding/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/vivekrai05-sudo/coding/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/vivekrai05-sudo/coding/tree/master/0053-maximum-subarray) |
