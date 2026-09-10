@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vivekrai05-sudo/coding/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vivekrai05-sudo/coding/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekrai05-sudo/coding/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3169-count-days-without-meetings](https://github.com/vivekrai05-sudo/coding/tree/master/3169-count-days-without-meetings) |
 ## Enumeration
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vivekrai05-sudo/coding/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/vivekrai05-sudo/coding/tree/master/0075-sort-colors) |
+| [3169-count-days-without-meetings](https://github.com/vivekrai05-sudo/coding/tree/master/3169-count-days-without-meetings) |
 ## Quicksort
 |  |
 | ------- |
