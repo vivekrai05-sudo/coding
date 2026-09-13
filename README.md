@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/vivekrai05-sudo/coding/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekrai05-sudo/coding/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/vivekrai05-sudo/coding/tree/master/0713-subarray-product-less-than-k) |
+| [0835-image-overlap](https://github.com/vivekrai05-sudo/coding/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/vivekrai05-sudo/coding/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/vivekrai05-sudo/coding/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivekrai05-sudo/coding/tree/master/0918-maximum-sum-circular-subarray) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vivekrai05-sudo/coding/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/vivekrai05-sudo/coding/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/vivekrai05-sudo/coding/tree/master/0542-01-matrix) |
+| [0835-image-overlap](https://github.com/vivekrai05-sudo/coding/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/vivekrai05-sudo/coding/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/vivekrai05-sudo/coding/tree/master/1314-matrix-block-sum) |
 ## Sorting
