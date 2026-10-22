@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vivekrai05-sudo/coding/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vivekrai05-sudo/coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vivekrai05-sudo/coding/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/vivekrai05-sudo/coding/tree/master/0876-middle-of-the-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivekrai05-sudo/coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/vivekrai05-sudo/coding/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/vivekrai05-sudo/coding/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/vivekrai05-sudo/coding/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vivekrai05-sudo/coding/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Array
 |  |
